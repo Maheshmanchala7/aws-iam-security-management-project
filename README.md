@@ -118,3 +118,28 @@ Successfully logged in using password and MFA verification.
 ## Outcome
 
 Successfully implemented AWS IAM security best practices including secure user management, policy-based access control, and MFA authentication.
+## Project Screenshots
+
+### IAM Dashboard
+![IAM](screenshots/iam-dashboard.png)
+
+### Developers Group
+![Group](screenshots/developers-group.png)
+
+### IAM User
+![User](screenshots/iam-user.png)
+
+### EC2 ReadOnly Policy
+![Policy](screenshots/ec2-readonly.png)
+
+### EC2 Permission Denied
+![Denied](screenshots/ec2-denied.png)
+
+### Custom S3 Policy
+![S3](screenshots/s3-policy.png)
+
+### Policy JSON
+![JSON](screenshots/policy-json.png)
+
+### MFA Enabled
+![MFA](screenshots/mfa.png)
